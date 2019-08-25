@@ -126,20 +126,33 @@
 	]},
 	{"name": "Dota 2",
 	"subcats": [
-		{"name": "Commentary",
+		{"name": "Chatwheel",
 		"sounds": [
-			{"text": "Brutal. Savage. Rekt.",
-			"src": "dota brutal savage rekt"},
+			{"text": "CEEEEEEB!",
+			"src": "dota chatwheel ceeeeeeeeeeeeeeb"},
 			{"text": "Easiest money of my life!",
 			"src": "dota easiest money of my life"},
 			{"text": "Echo Slamma Jamma!",
 			"src": "dota echo slamma jamma"},
-			{"text": "He's still alive!",
-			"src": "hes still alive"},
 			{"text": "I... uh... That was questionable at the... at the best.",
 			"src": "dota i uh that was questionable at the at the best"},
 			{"text": "I can't believe what we're seeing. What just happened?",
 			"src": "dota what just happened"},
+			{"text": "Kookabura Laugh",
+			"src": "dota chatwheel kookabura laugh"},
+			{"text": "Roshan! Roshan! Roshan!",
+			"src": "dota chatwheel roshan roshan roshan"},
+			{"text": "That's playing to win, baby!",
+			"src": "dota thats playing to win baby"},
+			{"text": "你气不气?",
+			"src": "dota chatwheel 你气不气"}
+		]},
+		{"name": "Commentary",
+		"sounds": [
+			{"text": "Brutal. Savage. Rekt.",
+			"src": "dota brutal savage rekt"},
+			{"text": "He's still alive!",
+			"src": "hes still alive"},
 			{"text": "It's a disastah!",
 			"src": "dota its a disastah"},
 			{"text": "Lakad Matataaag! Normalin, Normalin.",
@@ -148,8 +161,6 @@
 			"src": "liquid are doing it"},
 			{"text": "Nobody has ever done that in the history of Dota!",
 			"src": "dota nobody has ever done that in the history of dota"},
-			{"text": "That's playing to win, baby!",
-			"src": "dota thats playing to win baby"},
 			{"text": "The next level play!",
 			"src": "dota the next level play"},
 			{"text": "They're all dead!",
@@ -236,6 +247,11 @@
 			{"text": "Frickin' unbelievable!",
 			"src": "frickin unbelievable"}
 		]},
+		{"name": "Ogre Magi",
+		"sounds": [
+			{"text": "They picked me! No one ever picks me.",
+			"src": "dota ogre magi they picked me no one ever picks me"}
+		]},
 		{"name": "Pangolier",
 		"sounds": [
 			{"text": "Was that intentional? It looked intentional.",
@@ -245,6 +261,11 @@
 		"sounds": [
 			{"text": "I need a new pair of pants!",
 			"src": "pudge i need a new pair of pants"}
+		]},
+		{"name": "Shopkeeper",
+		"sounds": [
+			{"text": "Ho ho! You found me!",
+			"src": "dota shopkeeper ho ho you found me"}
 		]},
 		{"name": "Sniper",
 		"sounds": [
