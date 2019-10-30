@@ -1,6 +1,8 @@
 {"cats": [
 	{"name": "Miscellaneous",
 	"sounds": [
+		{"text": "'nother day, 'nother beer.",
+		"src": "nother day nother beer"},
 		{"text": "China!",
 		"src": "trump china"},
 		{"text": "Developers!",
@@ -39,6 +41,8 @@
 		"src": "phineas and ferb what cha doin"},
 		{"text": "WAZZAP?!?",
 		"src": "wazzap"},
+		{"text": "You guys silly? I'm still gonna send it.",
+		"src": "you guys silly im still gonna send it"},
 		{"text": "21!",
 		"src": "21"}
 	],
