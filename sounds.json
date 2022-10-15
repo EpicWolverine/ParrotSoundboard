@@ -498,6 +498,8 @@
 	"sounds": [
 		{"text": "Double kill!",
 		"src": "double kill"},
+		{"text": "Social Credit Deducted.",
+		"src": "halo announcer social credit deducted"},
 		{"text": "YAY!",
 		"src": "halo yay"}
 	]},
